@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrudhviRamKota14
-- 👀 I’m interested in Full Stack Development and Front End development 
-- 🌱 I’m currently learning JAVA, SPRING BOOT
+- 👀 I’m interested in Data Engineer Roles.
 - 💞️ I’m looking to collaborate on PROJECTS
 - 📫 How to reach me kotaprudhvi14@gmail.com
 - 😄 Pronouns: he/him
